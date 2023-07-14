@@ -189,7 +189,7 @@ a {
     display: block;
     position: absolute;
     top: 10px;
-    left: -1500px;
+    left: -2100px;
     z-index: 12;
     transition: all 1s ease;
   }
@@ -224,7 +224,7 @@ a {
   .header .header__body .menu {
     position: fixed;
     top: 0;
-    left: -1500px;
+    left: -2100px;
     width: 100%;
     z-index: 10;
     text-align: center;
@@ -370,7 +370,7 @@ a {
 .header .header__body .btn-close {
   position: absolute;
   top: 36px;
-  right: 1500px;
+  right: 2100px;
   z-index: 12;
   transition: all 1s ease;
 }
